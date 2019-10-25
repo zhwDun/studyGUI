@@ -1,0 +1,24 @@
+2019-10-25 16:59:39,560 - TestDemo.py[line:14] - INFO: 姓名,性别,年龄
+
+2019-10-25 16:59:39,565 - TestDemo.py[line:14] - INFO: dengzhi,nan,18
+
+2019-10-25 16:59:39,565 - TestDemo.py[line:14] - INFO: dengzhi,nan,18
+
+2019-10-25 16:59:39,568 - TestDemo.py[line:14] - INFO: 张三,女,19
+
+2019-10-25 16:59:39,568 - TestDemo.py[line:14] - INFO: 张三,女,19
+
+2019-10-25 16:59:39,568 - TestDemo.py[line:14] - INFO: 张三,女,19
+
+2019-10-25 16:59:39,571 - TestDemo.py[line:14] - INFO: 111,nv,99
+2019-10-25 16:59:39,571 - TestDemo.py[line:14] - INFO: 111,nv,99
+2019-10-25 16:59:39,571 - TestDemo.py[line:14] - INFO: 111,nv,99
+2019-10-25 16:59:39,571 - TestDemo.py[line:14] - INFO: 111,nv,99
+2019-10-25 17:00:14,319 - TestDemo.py[line:15] - INFO: 
+2019-10-25 17:00:24,802 - TestDemo.py[line:15] - INFO: 姓名,性别,年龄
+
+2019-10-25 17:00:24,803 - TestDemo.py[line:15] - INFO: dengzhi,nan,18
+
+2019-10-25 17:00:24,803 - TestDemo.py[line:15] - INFO: 张三,女,19
+
+2019-10-25 17:00:24,803 - TestDemo.py[line:15] - INFO: 111,nv,99
